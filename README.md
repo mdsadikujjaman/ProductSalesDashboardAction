@@ -2,6 +2,8 @@
 
 This project presents a visual analysis of product sales across different categories and sub-categories. The goal is to extract meaningful business insights regarding sales performance by category and sub-category using clear and informative visualizations.
 
+## [Tableau Public](https://public.tableau.com/app/profile/sadikujjaman/viz/SalesDashboardByCategoryAction/ProductCategorySales)
+
 ---
 
 ## 🧾 Overview
